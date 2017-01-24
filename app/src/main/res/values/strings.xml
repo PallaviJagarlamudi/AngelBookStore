@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Angel BookStore</string>
+
+    <string name="description">\t\t\tIf you are looking to spend hours browsing through shelves at a large bookstore with cozy décor, then Angel bookstore is where you should go. Equipped with everything from study guides and textbooks to secondhand novels at incredibly low prices,Angel bookstore has something for everyone.\n\n\t\t\tMoreover, the store also functions as a library, allowing patrons to receive a refund of 70 percent of the book’s original cost if they return it after reading in 30 days."</string>
+    <string name="subhead">Please reach us @ :</string>
+    <string name="timing">10 A.M to 10 P.M (except sundays)</string>
+    <string name="address">Shop 12A, Vallabhai Patel road, Takshila, Jogeswari(E), Mumbai - 400096 </string>
+    <string name="contactNo">+(91)-22-6979323</string>
+    <string name="webaddr">www.angelbookstore.com</string>
+    <string name="emailId">angel.bookstore@gmail.com</string>
+
+    <string name="timingImgDesc">Working hours</string>
+    <string name="addressImgDesc">Location</string>
+    <string name="contactNoImgDesc">Contact No</string>
+    <string name="webaddrImgDesc">Website address</string>
+    <string name="emailIdImgDesc">Email Id</string>
+    <string name="logoImgDesc">Logo</string>
+    <string name="shoppic">Shop Image</string>
+</resources>
